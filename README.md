@@ -1,4 +1,4 @@
-# CurrencyExchanger
+# Currency Exchanger
 Цель данного проекта – разработать серверную часть обменника валют с использования микросервисной архитектуры.
 
 Функциональные требования:
@@ -16,3 +16,13 @@
 - Минимальная скорость старта и остановки, исключение потери данных.
 
 ![](./resources/Architecture.png)
+
+## Технологический стек:
+- Java
+- Kotlin
+- Kafka
+- Docker
+- Docker Compose
+- Spring Boot
+- Spring Cloud
+- PostgreSQL
